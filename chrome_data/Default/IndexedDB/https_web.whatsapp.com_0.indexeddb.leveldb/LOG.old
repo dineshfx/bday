@@ -1,0 +1,19 @@
+2024/11/09-21:50:09.914 1af0 Reusing MANIFEST C:\Users\wizard\PycharmProjects\happybirthday\chrome_data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/09-21:50:09.914 1af0 Recovering log #197
+2024/11/09-21:50:09.937 1af0 Reusing old log C:\Users\wizard\PycharmProjects\happybirthday\chrome_data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000197.log 
+2024/11/09-21:50:11.339 2dfc Level-0 table #205: started
+2024/11/09-21:50:11.353 2dfc Level-0 table #205: 277776 bytes OK
+2024/11/09-21:50:11.355 2dfc Delete type=0 #197
+2024/11/09-21:50:11.356 1af0 Manual compaction at level-0 from '\x00<\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00=\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/09-21:50:11.433 1b38 Compacting 1@1 + 4@2 files
+2024/11/09-21:50:11.533 1b38 Generated table #206@1: 41205 keys, 2199332 bytes
+2024/11/09-21:50:11.595 1b38 Generated table #207@1: 3210 keys, 2157182 bytes
+2024/11/09-21:50:11.689 1b38 Generated table #208@1: 36312 keys, 2226625 bytes
+2024/11/09-21:50:11.706 1b38 Generated table #209@1: 13470 keys, 267446 bytes
+2024/11/09-21:50:11.707 1b38 Compacted 1@1 + 4@2 files => 6850585 bytes
+2024/11/09-21:50:11.708 1b38 compacted to: files[ 0 0 4 0 0 0 0 ]
+2024/11/09-21:50:11.709 1b38 Delete type=2 #199
+2024/11/09-21:50:11.709 1b38 Delete type=2 #200
+2024/11/09-21:50:11.709 1b38 Delete type=2 #201
+2024/11/09-21:50:11.709 1b38 Delete type=2 #202
+2024/11/09-21:50:11.709 1b38 Delete type=2 #205
